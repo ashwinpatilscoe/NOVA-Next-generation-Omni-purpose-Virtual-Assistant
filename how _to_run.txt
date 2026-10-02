@@ -1,0 +1,21 @@
+in termianl 
+first create virual environment
+use environmen and install requirment.txt file 
+place commands as follow
+
+1) pip install virtualenv
+2) virtualenv myprojecctenv 
+3) .\env\Scripts\activate.ps1
+4) pip install -r .\requirments.txt
+
+
+
+
+
+
+then open file add your own api for news and ai 
+tip(use grok ai for free api)
+
+
+
+
