@@ -5,7 +5,7 @@ place commands as follow
 
 1) pip install virtualenv
 2) virtualenv myprojecctenv 
-3) .\env\Scripts\activate.ps1
+3) .\myprojecctenv\Scripts\activate.ps1
 4) pip install -r .\requirments.txt
 
 
